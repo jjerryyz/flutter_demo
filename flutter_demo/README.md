@@ -19,9 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 
 国内下载flutter有专门的链接，并且需要对基础仓库源进行客制化，详情参考https://flutter.dev/community/china
 
-下载完毕，按照
-
-
+到了运行flutter.bat doctor 时，发现没有任何输出，程序卡死在这里，网上的建议一般都是和git有关，我直接关闭git的客户端（smartgit），再次运行就没出现问题
 
 #### initialing gradle...一直不消失
 
